@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "name": "",
+    "image": "",
+    "github": "",
+    "deploy": "",
+    "topics": ""
+    },
+    {
+    "id": 2,
+    "name": "",
+    "image": "",
+    "github": "",
+    "deploy": "",
+    "topics": ""
+    },
+    {
+    "id": 3,
+    "name": "Budget Tracker",
+    "image": "",
+    "github": "https://github.com/JacksonPetz/pwa-budget-tracker",
+    "deploy": "https://pwa-budget-tracker61.herokuapp.com//",
+    "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    },
+    {
+    "id": 4,
+    "name": "Weather Dashboard",
+    "image": "",
+    "github": "https://github.com/JacksonPetz/Weather-Dash",
+    "deploy": "https://weath3r-dashboard.netlify.app/",
+    "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    },
+    {
+    "id": 5,
+    "name": "",
+    "image": "",
+    "github": "",
+    "deploy": "",
+    "topics": ""
+      },
+    {
+    "id": 6,
+    "name": "Work Day Scheduler",
+    "image": "",
+    "github": "https://github.com/JacksonPetz/Work-Day",
+    "deploy": "https://jackson-work-day.netlify.app/",
+    "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
+    },
+    {
+    "id": 7,
+    "name": "",
+    "image": "",
+    "github": "",
+    "deploy": "",
+    "topics": ""
+    },
+    {
+    "id": 8,
+    "name": "",
+    "image": "",
+    "github": "",
+    "deploy": "",
+    "topics": ""
+    },
+    {
+    "id": 9,
+    "name": "",
+    "image": "",
+    "github": "",
+    "deploy": "",
+    "topics": ""
+    }
+]
